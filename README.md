@@ -18,11 +18,11 @@ Application: Human-computer interaction, app can access network services
 - IPv6 is the “next generation” of IP, which provides a vastly expanded address space. Using IPv6, the Internet will be able to grow to millions of times its current size, in terms of the numbers of people, devices and objects connected to it.
 - A virtual local area network (VLAN) is a logical group of workstations, servers and network devices that appear to be on the same LAN despite their geographical distribution. ... The purpose of implementing a VLAN is to improve the performance of a network or apply appropriate security features.
 - IP Routing is an umbrella term for the set of protocols that determine the path that data follows in order to travel across multiple networks from its source to its destination. Data is routed from its source to its destination through a series of routers, and across multiple networks.
-- Bus network topology: Also known as backbone network topology, this configuration connects all devices to a main cable via drop lines. 
-Mesh network topology: A dedicated point-to-point link connects each device on the network to another device on the network, only carrying data between two devices. 
+-- Bus network topology: Also known as backbone network topology, this configuration connects all devices to a main cable via drop lines. 
+-- Mesh network topology: A dedicated point-to-point link connects each device on the network to another device on the network, only carrying data between two devices. 
 Ring network topology: Two dedicated point-to-point links connect a device to the two devices located on either side of it, creating a ring of devices through which data is forwarded via repeaters until it reaches the target device. 
 Star network topology: The most common network topology, star topology connects each device in the network to a central hub. Devices can only communicate with each other indirectly through the central hub. 
 Hybrid network topology: Any combination of two or more topologies is a hybrid topology. 
 Tree network topology: This topology consists of a parent-child hierarchy in which star networks are interconnected via bus networks. Nodes branch out linearly from one root node, and two connected nodes only share one mutual connection.
-Dynamic Host Configuration Protocol (DHCP) is a network management protocol used to automate the process of configuring devices on IP networks, thus allowing them to use network services such as DNS, NTP, and any communication protocol based on UDP or TCP.
-3 types of DNS servers: DNS Resolver, DNS Root Server and Authoritative Name Server.
+- Dynamic Host Configuration Protocol (DHCP) is a network management protocol used to automate the process of configuring devices on IP networks, thus allowing them to use network services such as DNS, NTP, and any communication protocol based on UDP or TCP.
+- 3 types of DNS servers: DNS Resolver, DNS Root Server and Authoritative Name Server.
